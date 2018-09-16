@@ -28,4 +28,4 @@ You can check out
 <a href="https://1techpro1.blogspot.com/2018/09/cross-site-request-forgery-csrf-prevention-using-double-submit-cookie.html">
 this blog post
 </a> to see the step-by-step guide on how to implement CSRF protection using the 
-synchronizer token pattern.
+double submit cookie.
